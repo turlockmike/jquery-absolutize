@@ -28,11 +28,3 @@ jQuery.fn.absolutize = function()
 
   });
 }
-
-jQuery.fn.clearInlineStyles = function() {
-  return this.each(function ()
-  {
-    var element = jQuery(this);
-    return element.removeAttr("style");
-  });
-}
