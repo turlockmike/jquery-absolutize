@@ -1,6 +1,6 @@
 jquery-absolutize
 =================
-A Simple jquery function to find the absolute position of an element
+A Simple jquery function to convert an element into an abosolutely positioned element
 
 
 Example:
